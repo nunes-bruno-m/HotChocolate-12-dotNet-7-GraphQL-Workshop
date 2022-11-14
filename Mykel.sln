@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mykel.GraphQL", "Mykel.Api\Mykel.GraphQL.csproj", "{05819C90-2AF7-436E-B9DB-11956835E38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mykel.Tests", "Mykel.Test\Mykel.Tests.csproj", "{D34A5E65-C758-4A07-AE15-EB3966C7B6BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05819C90-2AF7-436E-B9DB-11956835E38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05819C90-2AF7-436E-B9DB-11956835E38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05819C90-2AF7-436E-B9DB-11956835E38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05819C90-2AF7-436E-B9DB-11956835E38A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34A5E65-C758-4A07-AE15-EB3966C7B6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34A5E65-C758-4A07-AE15-EB3966C7B6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34A5E65-C758-4A07-AE15-EB3966C7B6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34A5E65-C758-4A07-AE15-EB3966C7B6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCFBCB3-C8B6-46F8-AA74-1F7F2918AA6C}
+	EndGlobalSection
+EndGlobal
